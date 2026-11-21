@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.devistech.app",
+        "sha256_cert_fingerprints": ["DD:8A:D3:8A:C8:55:FC:67:FD:DE:13:03:53:35:64:33:DE:4B:5E:68:F7:9A:D5:06:DD:1B:30:87:79:FA:E2:F4"]
+      }
+    }]
